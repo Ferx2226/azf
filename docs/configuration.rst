@@ -44,7 +44,7 @@ A more detailed configuration file is shown below
     properties:
       iteration_limit: 100
       return_first: false
-      time_limit: 120
+      time_limit: 60
       C: 1.4
       cutoff_cumulative: 0.995
       cutoff_number: 50
